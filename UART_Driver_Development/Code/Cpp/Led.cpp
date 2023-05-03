@@ -1,4 +1,4 @@
-#include "LED.h" //Inkluderar header filen för att även denna fil skall känna till de olika LED-beteckningarna och funktioner
+#include "led.h" //Inkluderar header filen för att även denna fil skall känna till de olika LED-beteckningarna och funktioner
 
 //Konstruktorn för LED-lamporna
 Led::Led(LedColor_Type _color, LedState_Type _state)

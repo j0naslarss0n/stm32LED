@@ -1,4 +1,4 @@
-#include "UART.h" //Hämtar vår samlingsfil för headers och funktioner
+#include "uart.h" //Hämtar vår samlingsfil för headers och funktioner
 
 void USART2_Init(void) { //Deklarerar en funktion för att initiera USART-protkokollet och dess beståndsdelar
 

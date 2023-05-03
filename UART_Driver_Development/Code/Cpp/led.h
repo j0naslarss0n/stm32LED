@@ -2,7 +2,7 @@
 #define LED_H
 
 #include <stdint.h>
-#include "UART.h"
+#include "uart.h"
 #include "stm32f4xx.h" //Device Header för enhetsspecifika angivelser om hårdvaran
 
 //Definera vilken GPIO som skall vara ansvarig för LED-funktionen
